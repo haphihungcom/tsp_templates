@@ -1,0 +1,144 @@
+{% extends 'layout/laws.txt' %}
+
+{% block body %}
+
+
+[align=center][b][p]Criminal Code[/p][/b][/align]
+
+
+[align=center][i][p]An act laying out crimes against the Coalition and their punishments[/p][/i][/align]
+
+
+[b][anchor=a1][/anchor][p]1. Crimes[/p][/b]
+
+
+[anchor=a1_s1][/anchor][p](1) Treason shall be defined as plotting against the Coalition, seeking to lower the Delegate's endorsement count without his or her consent, breaking the endorsement cap after receiving an official warning, aiding any entity which the Coalition is taking defensive action against, or any entity against which a state of war exists.[/p]
+
+
+[anchor=a1_s2][/anchor][p](2) Identity fraud shall be defined as a deception made of one's self, or knowingly abetting in another's claims to a false identity, wherein this fraud threatens the security of The South Pacific, or circumvents the laws and legal processes of The South Pacific.[/p]
+
+
+[anchor=a1_s3][/anchor][p](3) Espionage shall be defined as an act of or attempt to obtain information that is confidential or not made publicly available for use by oneself or an entity one represents. Distribution of private information that originates in official South Pacific discussion areas, excluding private messages, without the express written permission of the relevant officials or institutions shall be considered Espionage.[/p]
+[anchor=a1_s3_a][/anchor][p]a. The Chair of the Assembly shall be the relevant official for information from private discussions of the Assembly.[/p]
+[anchor=a1_s3_b][/anchor][p]b. The Council on Regional Security shall be the relevant institution for information from private discussions of the Council.[/p]
+[anchor=a1_s3_c][/anchor][p]c. The High Court shall be the relevant institution for information from private discussions of the High Court.[/p]
+[anchor=a1_s3_d][/anchor][p]d. The Cabinet shall be the relevant institution for all other private information that originates in official South Pacific discussion areas.[/p]
+
+
+[anchor=a1_s4][/anchor][p](4) Blackmail shall be defined as demanding private gains from a player in return for not revealing compromising or injurious information.[/p]
+
+
+[anchor=a1_s5][/anchor][p](5) Contempt of Court shall be defined as a deliberate perversion of the justice system - conduct which prevents the Judiciary from reaching a true and just result.[/p]
+
+
+[anchor=a1_s6][/anchor][p](6) Organised crime shall be defined as involvement in a group or association with the intent of committing an unlawful act in The South Pacific.[/p]
+
+
+[anchor=a1_s7][/anchor][p](7) Corruption shall be defined as the misuse of public office for private or personal advantage.[/p]
+
+
+[anchor=a1_s8][/anchor][p](8) Electoral fraud shall be defined as the manipulation of the democratic process in the South Pacific, wherein--[/p]
+[anchor=a1_s8_a][/anchor][p]a. an individual recruits people to vote a particular way, with an underlying corrupt purpose, regardless if the recruited persons are aware of that purpose;[/p]
+[anchor=a1_s8_b][/anchor][p]b. a group of individuals organize themselves to vote a particular way, with an underlying corrupt purpose that would alter the natural outcome of the vote.[/p]
+
+
+[anchor=a1_s9][/anchor][p](9) Extortion shall be defined as the threatening of any individual in order to influence behavior that the recipient would otherwise not alter.[/p]
+
+
+[anchor=a1_s10][/anchor][p](10) Defamation shall be defined as the communication of false or grossly misleading information about an individual to a recipient, for the purposes of damaging the standing of that individual and done so with a reckless disregard for its factual accuracy.[/p]
+
+
+[anchor=a1_s11][/anchor][p](11) Bribery shall be defined as the receiving or offering of undue support by or to any individual in order to influence behavior that the recipient would otherwise not alter.[/p]
+
+
+[anchor=a1_s12][/anchor][p](12) Vexatious Charges shall be defined as the filing of criminal charges against another player despite the filing party's knowledge that said charges were meritless, frivolous, repetitive, and/or burdensome.[/p]
+
+
+[anchor=a1_s13][/anchor][p](13) Conduct violations shall be defined as breaking in-game NationStates rules.[/p]
+
+
+
+[b][anchor=a2][/anchor][p]2. Punishments[/p][/b]
+
+
+[anchor=a2_s1][/anchor][p](1) If found guilty of an act of treason, the offending nation will be immediately banned from the in-game region and offsite forums.[/p]
+
+
+[anchor=a2_s2][/anchor][p](2) Conduct violations are punishable by immediate ejection and banishment from the region, albeit punished parties may appeal this decision to the High Court. In most cases, nations that appeal the decision and apologize should expect to have their ban lifted.[/p]
+
+
+[anchor=a2_s3][/anchor][p](3) If found guilty of any other crime listed above, the Judiciary will determine a sentence. The sentence must be proportionate to the offense.[/p]
+
+
+
+[b][anchor=a3][/anchor][p]3. Parole[/p][/b]
+
+
+[anchor=a3_s1][/anchor][p](1) After serving at least one year of a ban from the region and/or the regional forum, convicts may apply for parole to a parole board.[/p]
+[anchor=a3_s1_a][/anchor][p]a. Said parole board shall consist of the senior most member of the Council on Regional Security, the Chief Justice of the High Court, and the Chair of the Assembly.[/p]
+[anchor=a3_s1_b][/anchor][p]b. The parole board may decide to recommend parole to convicts, provided a majority of its members support this motion; this decision should consider the security of the region and the genuine willingness of the convict to reform their behavior.[/p]
+[anchor=a3_s1_c][/anchor][p]c. If parole is granted, the regional and/or forum ban shall be revoked and the individual shall be allowed to reside in The South Pacific.[/p]
+
+
+[anchor=a3_s2][/anchor][p](2) After six months of residency, the individual may apply for legislator status, albeit with a prohibition on holding office.[/p]
+
+
+[anchor=a3_s3][/anchor][p](3) While on parole, the special parole board can decide at any time, by majority vote, to revoke an individual’s parole; this decision should consider the security of the region and the contributions of the individual to the region.[/p]
+
+
+[anchor=a3_s4][/anchor][p](4) After six months of legislator status, the individual may apply to the parole board for the prohibition on holding office to be lifted. The parole board can grant this motion, provided a majority of the board supports – and in doing so, the individual will no longer be held under any conditions of parole.[/p]
+
+
+[anchor=a3_s5][/anchor][p](5) At each point of the parole process, prior to the parole board's decision, the Assembly shall be informed of a request and legislators shall be allotted one week to formally present briefs to the parole board regarding the convicted, their past crimes and the appropriateness of parole.[/p]
+
+
+[anchor=a3_s6][/anchor][p](6) Changes to the parole system shall not affect the current status of parolees, although any new procedure shall be followed hereafter.[/p]
+
+
+
+[b][anchor=a4][/anchor][p]4. Prohibited Regions and Organizations[/p][/b]
+
+
+[anchor=a4_s1][/anchor][p](1) The Cabinet or the Council on Regional Security may request the Assembly designate foreign regions and organizations deemed hostile to The South Pacific as Prohibited Groups. Such requests must be accompanied with a report detailing those activities that meet the definitions of hostility detailed in Section 2 of this Article.[/p]
+
+
+[anchor=a4_s2][/anchor][p](2) For the purposes of this article, hostility shall constitute foreign regions or organizations that--[/p]
+[anchor=a4_s2_a][/anchor][p]a. Were actively involved and complicit in an attempt, successful or otherwise, to illegally overthrow the legitimate government of The South Pacific;[/p]
+[anchor=a4_s2_b][/anchor][p]b. Have coordinated efforts to directly exploit the elections or Assembly of The South Pacific;[/p]
+[anchor=a4_s2_c][/anchor][p]c. Groups that have engaged in or have attempted to engage in coordinated espionage against The South Pacific’s government or military;[/p]
+[anchor=a4_s2_d][/anchor][p]d. Groups that have or have attempted to sabotage The South Pacific's military operations.[/p]
+
+
+[anchor=a4_s3][/anchor][p](3) For the purposes of this article, being on opposite sides of a military engagement, provided the target-region is not an ally or a region that The South Pacific is at war with, shall not constitute sabotage of The South Pacific's military operations.[/p]
+
+
+[anchor=a4_s4][/anchor][p](4) Membership in a designated Prohibited Group is prohibited within The South Pacific and grounds for revocation of Legislator status.[/p]
+[anchor=a4_s4_a][/anchor][p]a. A seven day grace period will be allowed for renunciation of membership in the Prohibited Group.[/p]
+[anchor=a4_s4_b][/anchor][p]b. The seven days grace period begins immediately after the notification of the legislator in question that they are a member of a Prohibited Group by the Prime Minister or a member of the Council on Regional Security.[/p]
+
+
+[anchor=a4_s5][/anchor][p](5) Any individual whose Legislator status has been revoked for membership in a designated Prohibited Group may contest their membership in the Prohibited Group to the High Court within 7 days of their legislator status being revoked.[/p]
+[anchor=a4_s5_a][/anchor][p]a. The High Court shall uphold the revocation of Legislator status if the individual is found to have been a member of a designated Prohibited Group at the time of revocation.[/p]
+[anchor=a4_s5_b][/anchor][p]b. The High Court shall reinstate Legislator status if the individual is found not to have been a member of a designated Prohibited Group at the time of revocation.[/p]
+
+
+[anchor=a4_s6][/anchor][p](6) Applicants for Legislator status who are members of a designated Prohibited Group shall not be granted such status unless they renounce membership in the Prohibited Group.[/p]
+
+
+[anchor=a4_s7][/anchor][p](7) Membership in a designated Prohibited Group does not constitute a criminal offense; failure to disclose such membership shall constitute fraud.[/p]
+
+
+[anchor=a4_s8][/anchor][p](8) Regions at war with The South Pacific or with which The South Pacific is at war shall be automatically considered Prohibited Groups.[/p]
+[anchor=a4_s8_a][/anchor][p]a. The Assembly may further designate Prohibited Groups via a vote with a 60% majority in favor, should the Cabinet or the Council on Regional Security request such a designation.[/p]
+
+
+[anchor=a4_s9][/anchor][p](9) The Assembly may rescind a Prohibited Group designation via a vote with a 60% majority in favor.[/p]
+
+
+[anchor=a4_s10][/anchor][p](10) The following regions and organizations are deemed Prohibited Groups within The South Pacific--[/p]
+[anchor=a4_s10_a][/anchor][p]a. The Empire[/p]
+
+
+[anchor=a4_s11][/anchor][p](11) The Chair of the Assembly shall update clause 10 of this article to reflect The South Pacific's current Prohibited Groups.	[/p]
+
+{% endblock body %}

@@ -1,0 +1,26 @@
+{% extends 'layout/laws.txt' %}
+
+{% block body %}
+
+
+[align=center][b][p]Holidays Act[/p][/b][/align]
+[align=center][i][p]An act recognizing historical events worthy of celebration[/p][/i][/align]
+
+
+[b][anchor=a1][/anchor][p]1. Public Holidays[/p][/b]
+
+
+[anchor=a1_s1][/anchor][p](1) The following days will be official holidays of the Coalition--[/p]
+
+
+[anchor=a1_s1_a][/anchor][p]a. December 31st shall be declared Foundation Day, celebrating the creation of the South Pacific.[/p]
+[anchor=a1_s1_b][/anchor][p]b. January 1st shall be declared Delegates Day, celebrating those who have served as Delegate of the Coalition.[/p]
+[anchor=a1_s1_c][/anchor][p]c. March 18th shall be declared Max Barry Day, celebrating the creator and founder of NationStates.[/p]
+[anchor=a1_s1_d][/anchor][p]d. June 2nd shall be declared Coalition Day, celebrating the creation of the Charter, Government, and the Coalition.[/p]
+[anchor=a1_s1_e][/anchor][p]e. July 20th shall be declared Independence Day, celebrating our freedom and independence, marking the end of UCR control over the South Pacific.[/p]
+[anchor=a1_s1_f][/anchor][p]f. November 13th shall be declared Creation Day, celebrating the creation of NationStates.[/p]
+
+
+[anchor=a1_s2][/anchor][p](2) Further holidays may be added by the Delegate, the Cabinet, or the Assembly.	[/p]
+
+{% endblock body %}

@@ -1,0 +1,76 @@
+{% extends 'layout/laws.txt' %}
+
+{% block body %}
+
+
+[align=center][b][p]Regional Officers Act[/p][/b][/align]
+ 
+
+[align=center][i][p]An act providing for the granting of Regional Officer powers to government officials[/p][/i][/align]
+
+
+
+
+[b][anchor=a1][/anchor][p]1. Regional Officer Power Definitions[/p][/b]
+
+
+[anchor=a1_s1][/anchor][p](1) Under the terms of the act, the following powers are defined as--[/p]
+
+
+[anchor=a1_s1_a][/anchor][p]a. “Appearance” is the authority to alter the World Factbook Entry and pin Dispatches.[/p]
+[anchor=a1_s1_b][/anchor][p]b. “Border Control” is the authority to eject and ban nations from the region.[/p]
+[anchor=a1_s1_c][/anchor][p]c. “Communications” is the authority to send region-wide telegrams, moderate the Regional Message Board, and alter regional recruitment system powers.[/p]
+[anchor=a1_s1_d][/anchor][p]d. “Embassies” is the authority to open and close in-game embassies, and control which embassies may cross-post on the Regional Message Board.[/p]
+[anchor=a1_s1_e][/anchor][p]e. “Executive” is the authority to appoint and remove Regional Officers.[/p]
+[anchor=a1_s1_f][/anchor][p]f. “Polls” is the authority to create regional polls.[/p]
+[anchor=a1_s1_g][/anchor][p]g. “World Assembly” is the authority to approve of World Assembly proposals and to cast the region's World Assembly votes.[/p]
+
+
+
+[b][anchor=a2][/anchor][p]2. Regional Officers[/p][/b]
+
+
+[anchor=a2_s1][/anchor][p](1) The in-game Delegate will be granted all Regional Officer powers.[/p]
+
+
+[anchor=a2_s2][/anchor][p](2) The Minister of Foreign Affairs will be granted the Embassies power.[/p]
+
+
+[anchor=a2_s3][/anchor][p](3) The Minister of Regional Affairs will be granted the Appearance and Communications powers.[/p]
+
+
+[anchor=a2_s4][/anchor][p](4) The Prime Minister will be granted the collective set of powers granted to the other Cabinet ministers herein.[/p]
+
+
+[anchor=a2_s5][/anchor][p](5) Members of the Council on Regional Security will be granted the Border Control power.[/p]
+
+
+[anchor=a2_s6][/anchor][p](6) At least one member of the Local Council will be granted the Appearance, Communications, and Polls power.[/p]
+
+
+[anchor=a2_s7][/anchor][p](7) During elections, the Election Commissioner will be granted the Polls and Communication powers.[/p]
+
+
+
+[b][anchor=a3][/anchor][p]3. Executive Discretion[/p][/b]
+
+
+[anchor=a3_s1][/anchor][p](1) The Cabinet and/or Delegate may grant Communications, Appearance, and Polls powers to regional members as they see fit.[/p]
+
+
+[anchor=a3_s2][/anchor][p](2) The Council on Regional Security may grant Border Control powers to regional members as they see fit.[/p]
+
+
+
+[b][anchor=a4][/anchor][p]4. Limitations[/p][/b]
+
+
+[anchor=a4_s1][/anchor][p](1) Border Control power does not grant any legal authority to eject or ban nations from the region when not authorized by security or criminal laws.[/p]
+
+
+[anchor=a4_s2][/anchor][p](2) The Communications power must not be used excessively in a way that effectively spams the region.[/p]
+
+
+[anchor=a4_s3][/anchor][p](3) Exercise of Regional Officer powers must follow all applicable laws and rules. Behavior unbecoming of a representative of The South Pacific may result in suspension of Regional Officer power, even for ministers, as determined by a majority of the Cabinet.	[/p]
+
+{% endblock body %}

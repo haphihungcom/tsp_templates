@@ -1,0 +1,23 @@
+[gov_officials]
+delegate = 'Aumeltopia'
+local_council = ['Aidenfieeld', 'Hanguk-Nippon', 'Auphelia']
+crs = ['Sandaoguo', 'Farengeto', 'Kringalia', 'Erinor', 'Tsunamy', 'Pencil Sharpeners 2', 'Amerion']
+legcomm = ['Roavin', 'Nakarisaune']
+general_corps = ['Roavin', 'Nakarisaune']
+mora_advisory_council = ['Kringalia', 'Volaworand', 'Islands of Unity', 'Aidenfieeld', 'Beepee', 'Roavin', 'Pencil Sharpeners 2']
+cabinet_advisors = ['Nakarisaune', 'Roavin']
+coa = 'Farengeto'
+pm = 'Amerion'
+mora = 'Agalaesia'
+mofa = 'Omega'
+moma = 'Heliseum'
+hc_chief_justice = 'Kringalia'
+hc_justices = ['Kringalia', 'Belschaft', 'Rebeltopia', 'Awesomiasa']
+election_commissioner = 'Tsunamy'
+
+[test]
+region_nation_num = 6000
+
+[misc]
+secret_ballot_forum_acc = 'The Vote Collector'
+news_outlet_adder = 'United States of Vietnam'

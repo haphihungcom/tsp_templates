@@ -1,0 +1,70 @@
+{% extends 'layout/laws.txt' %}
+
+{% block body %}
+
+
+[align=center][b][p]Legislative Procedure Act[/p][/b]
+
+[i][p]An Act to define the procedural rules of the Assembly[/p][/i][/align]
+
+
+[b][anchor=a1][/anchor][p]1. Legislative Rules[/p][/b]
+
+
+[anchor=a1_s1][/anchor][p](1) Any legislator may propose a bill, resolution, or appointment, which will be debated and refined collectively in the assembly under the guidance of the Chair.[/p]
+
+
+[anchor=a1_s2][/anchor][p](2) To be brought to a vote, a specific draft of a bill, resolution, or appointment must[/p]
+[anchor=a1_s2_a][/anchor][p]a. receive a motion to vote by a legislator,[/p]
+[anchor=a1_s2_b][/anchor][p]b. receive a second by another legislator,[/p]
+[anchor=a1_s2_c][/anchor][p]c. be affirmed to be in proper formatting by the Chair, and[/p]
+[anchor=a1_s2_d][/anchor][p]d. have been at debate for a minimum period of time equivalent to the length of its voting period.[/p]
+
+
+[anchor=a1_s3][/anchor][p](3) General laws, amendments, resolutions, and appointments will remain at vote for three days. Constitutional laws, constitutional amendments, resolutions dealing with matters of constitutional law, and treaties will remain at vote for five days.[/p]
+
+
+[anchor=a1_s4][/anchor][p](4) General laws, amendments, resolutions, and treaties require a simple majority of those voting to pass. Appointments, unless otherwise specified, require a simple majority of those voting to pass. Constitutional laws, constitutional amendments, and resolutions dealing with matters of constitutional law require a three-fifths supermajority of those voting to pass.[/p]
+
+
+[anchor=a1_s5][/anchor][p](5) Should a debate lead to multiple competing bills or resolutions on the same matter, the Chair will separately and simultaneously bring the competing bills or resolutions to vote, in the same manner as regular business is done. The bill or resolution that receives the most votes in favor and meets minimum threshold requirements for passage will become law.[/p]
+
+
+[anchor=a1_s6][/anchor][p](6) Any bill, resolution or amendment which has been inactive for more than one month shall be considered defunct and archived, unless the Chair decides otherwise. [/p]
+
+
+[anchor=a1_s7][/anchor][p](7) Should any bill, resolution or amendment become law, the document itself, its debate thread, and its voting thread and results shall all be archived.[/p]
+
+
+
+[b][anchor=a2][/anchor][p]2. Powers and Responsibilities of the Chair[/p][/b]
+
+
+[anchor=a2_s1][/anchor][p](1) The Chair is responsible for creating voting threads and recording votes. In the event that the Chair does not perform these duties in a reasonable time frame, any legislator may create voting threads and record votes.[/p]
+
+
+[anchor=a2_s2][/anchor][p](2) The legislative history of each law will be recorded by the Chair. Legislative history will include reference to debate threads, voting results, and amendment history.[/p]
+
+
+[anchor=a2_s3][/anchor][p](3) The Chair must document the use of their discretionary powers including a rationale for using those powers in the relevant debate thread.[/p]
+
+
+[anchor=a2_s4][/anchor][p](4) The Chair may correct typographical errors, grammatical errors, naming or formatting inconsistencies at any time, as long as these corrections do not alter the original intent of the law, following a three day period in which the corrections are presented to the assembly for comments. Any such corrections must be recorded with the legislative history of each law.[/p]
+
+
+[anchor=a2_s5][/anchor][p](5) The Chair may delay votes for a reasonable time frame if done for the purposes of vote scheduling or to avoid preemption of active debate by a vote.[/p]
+
+
+[anchor=a2_s6][/anchor][p](6) The Chair may freely appoint any number of deputies, who will be authorized to perform those legislative duties of the Chair that the Chair permits. Any changes in the roster of deputies must be posted publicly.[/p]
+
+
+[anchor=a2_s7][/anchor][p](7) The Chair may waive the mandatory debate period remaining on a particular piece of legislation should a legislator motion for them to do so, provided that there has been no objection within 24 hours of the motion being made and seconded.[/p]
+
+
+
+[b][anchor=a3][/anchor][p]3. Constitutional Law[/p][/b]
+
+
+[anchor=a3_s1][/anchor][p](1) The Legislative Procedure Act is a constitutional law, and further amendments to it must meet constitutional amendment requirements.	[/p]
+
+{% endblock body %}
