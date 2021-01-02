@@ -1,4 +1,4 @@
-{% extends 'layout/court.txt' %}
+{% extends 'layout/court' %}
 
 {% block body %}
 

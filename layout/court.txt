@@ -1,6 +1,6 @@
-{% import 'macros/header_macros.txt' as macros with context %}
+{% import 'macros/header_macros' as macros with context %}
 
-{% extends 'layout/general.txt' %}
+{% extends 'layout/general' %}
 
 {% block header %}
 {{ macros.gen_header(urls={'Home': 'court_intro',

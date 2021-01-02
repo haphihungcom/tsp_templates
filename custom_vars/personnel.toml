@@ -1,22 +1,22 @@
 [gov_officials]
-delegate = 'Aumeltopia'
+delegate = 'Amerion'
 local_council = ['Aidenfieeld', 'Hanguk-Nippon', 'Auphelia']
-crs = ['Sandaoguo', 'Farengeto', 'Kringalia', 'Erinor', 'Tsunamy', 'Pencil Sharpeners 2', 'Amerion']
-legcomm = ['Roavin', 'Nakarisaune']
+crs = ['Sandaoguo', 'Farengeto', 'Kringalia', 'Erinor', 'Tsunamy', 'Aumeltopia', 'Amerion', 'Qvait', 'PenguinPies']
+legcomm = ['Roavin', 'Phoenix', 'FiHami']
 general_corps = ['Roavin', 'Nakarisaune']
-mora_advisory_council = ['Kringalia', 'Volaworand', 'Islands of Unity', 'Aidenfieeld', 'Beepee', 'Roavin', 'Pencil Sharpeners 2']
-cabinet_advisors = ['Nakarisaune', 'Roavin']
-coa = 'Farengeto'
-pm = 'Amerion'
-mora = 'Agalaesia'
+mora_advisory_council = ['MoRA is dead']
+cabinet_advisors = ['Sandaoguo', 'Roavin']
+coa = 'Purple Hyacinth'
+pm = 'PenguinPies'
+mora = 'MoRA is dead'
 mofa = 'Omega'
-moma = 'Heliseum'
+moma = 'FiHami'
 hc_chief_justice = 'Kringalia'
-hc_justices = ['Kringalia', 'Belschaft', 'Rebeltopia', 'Awesomiasa']
+hc_justices = ['Kringalia', 'Belschaft', 'Griffindor']
 election_commissioner = 'Tsunamy'
 
 [test]
-region_nation_num = 6000
+region_nation_num = 8000
 
 [misc]
 secret_ballot_forum_acc = 'The Vote Collector'

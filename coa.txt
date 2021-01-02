@@ -1,4 +1,4 @@
-{% extends 'layout/assembly.txt' %}
+{% extends 'layout/assembly' %}
 
 {% block body %}
 

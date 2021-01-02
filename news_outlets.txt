@@ -1,6 +1,6 @@
-{% import 'macros/sign.txt' as sign %}
+{% import 'macros/sign' as sign %}
 
-{% extends 'layout/general.txt' %}
+{% extends 'layout/general' %}
 
 {% block body %}
 [title]List of news outlet[/title]

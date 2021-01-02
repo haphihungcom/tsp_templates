@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -401,6 +401,7 @@
 [anchor=aXIV_s5][/anchor][p](5) If a Great Council fails to pass a new constitution and set of laws to replace the existing ones, then the existing laws will remain in place.[/p]
 
 
-[anchor=aXIV_s6][/anchor][p](6) At least one year must have passed since the previous Great Council before a new one may be established.	[/p]
+[anchor=aXIV_s6][/anchor][p](6) At least one year must have passed since the previous Great Council before a new one may be established.
+	[/p]
 
 {% endblock body %}

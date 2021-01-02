@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -21,6 +21,7 @@
 [anchor=a1_s1_f][/anchor][p]f. November 13th shall be declared Creation Day, celebrating the creation of NationStates.[/p]
 
 
-[anchor=a1_s2][/anchor][p](2) Further holidays may be added by the Delegate, the Cabinet, or the Assembly.	[/p]
+[anchor=a1_s2][/anchor][p](2) Further holidays may be added by the Delegate, the Cabinet, or the Assembly.
+	[/p]
 
 {% endblock body %}

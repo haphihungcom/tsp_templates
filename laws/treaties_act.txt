@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -34,6 +34,7 @@
 [b][anchor=a3][/anchor][p]3. Supremacy Clause[/p][/b]
 
 
-[anchor=The terms of the Charter and of this Act are held supreme over terms found within a atreaty][/anchor][p]The terms of the Charter and of this Act are held supreme over terms found within a treaty. No treaty may contradict or violate the laws of the Coalition.	[/p]
+[anchor=The terms of the Charter and of this Act are held supreme over terms found within a atreaty][/anchor][p]The terms of the Charter and of this Act are held supreme over terms found within a treaty. No treaty may contradict or violate the laws of the Coalition.
+	[/p]
 
 {% endblock body %}

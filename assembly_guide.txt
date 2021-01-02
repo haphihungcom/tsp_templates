@@ -1,7 +1,7 @@
-{% import 'macros/header_macros.txt' as headers %}
-{% import 'macros/sign.txt' as sign %}
+{% import 'macros/header_macros' as headers %}
+{% import 'macros/sign' as sign %}
 
-{% extends "layout/assembly.txt" %}
+{% extends "layout/assembly" %}
 
 {% block body %}
 

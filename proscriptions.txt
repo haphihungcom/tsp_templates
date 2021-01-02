@@ -1,6 +1,6 @@
-{% import 'macros/sign.txt' as sign %}
+{% import 'macros/sign' as sign %}
 
-{% extends 'layout/security.txt' %}
+{% extends 'layout/security' %}
 
 {% block body %}
 

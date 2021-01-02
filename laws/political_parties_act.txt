@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -61,6 +61,7 @@
 [anchor=a4_s1][/anchor][p](1) The Forum Administration will non-destructively archive political party subforums if the requirements listed in Article 3 are no longer met.[/p]
 
 
-[anchor=a4_s2][/anchor][p](2) Inactive political parties may petition the Chair of the Assembly for revival of their archived subforums, under the same process outlined in Article 3.	[/p]
+[anchor=a4_s2][/anchor][p](2) Inactive political parties may petition the Chair of the Assembly for revival of their archived subforums, under the same process outlined in Article 3.
+	[/p]
 
 {% endblock body %}

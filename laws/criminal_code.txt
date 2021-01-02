@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -139,6 +139,7 @@
 [anchor=a4_s10_a][/anchor][p]a. The Empire[/p]
 
 
-[anchor=a4_s11][/anchor][p](11) The Chair of the Assembly shall update clause 10 of this article to reflect The South Pacific's current Prohibited Groups.	[/p]
+[anchor=a4_s11][/anchor][p](11) The Chair of the Assembly shall update clause 10 of this article to reflect The South Pacific's current Prohibited Groups.
+	[/p]
 
 {% endblock body %}

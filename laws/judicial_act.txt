@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -133,6 +133,7 @@
 [anchor=_s2][/anchor][p](2) Material that is confidential and may harm regional security may be submitted to the Court, provided that the Court works with the corresponding authority to redact the information that may harm regional security.[/p]
 
 
-[anchor=_s3][/anchor][p](3) Material that is of a personal nature, such as as that which reveals personally identifiable information or which would otherwise unreasonably violate personal privacy, may be provided to the Court on a confidential basis, and published in a redacted form only if a reasonable person could not deduce the identity being protected.	[/p]
+[anchor=_s3][/anchor][p](3) Material that is of a personal nature, such as as that which reveals personally identifiable information or which would otherwise unreasonably violate personal privacy, may be provided to the Court on a confidential basis, and published in a redacted form only if a reasonable person could not deduce the identity being protected.
+	[/p]
 
 {% endblock body %}

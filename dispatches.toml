@@ -1,215 +1,216 @@
-[welcome]
-id = 1192500
+[coalition_of_the_south_pacific]
+[coalition_of_the_south_pacific.welcome]
+ns_id = "1192500"
 title = 'Introduction to NationStates and the South Pacific (Click here if you are new!)'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[index]
-id = 1237123
+[coalition_of_the_south_pacific.index]
+ns_id = "1237123"
 title = "Index to every dispatch about the South Pacific"
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[government_intro]
-id = 1192502
+[coalition_of_the_south_pacific.government_intro]
+ns_id = "1192502"
 title = 'Introduction to the Government of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[factbook]
-id = 1192534
+[coalition_of_the_south_pacific.factbook]
+ns_id = "1192534"
 title = "The Coalition of the South Pacific's Factbook"
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[get_involved]
-id = 1192503
+[coalition_of_the_south_pacific.get_involved]
+ns_id = "1192503"
 title = 'Get Involved in the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[guide_index]
-id = 1230616
+[coalition_of_the_south_pacific.guide_index]
+ns_id = "1230616"
 title = 'List of guides about NationStates and the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[government_jobs]
-id = 1205787
+[coalition_of_the_south_pacific.government_jobs]
+ns_id = "1205787"
 title = 'Get a job in the Government of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[elections]
-id = 1192504
+[coalition_of_the_south_pacific.elections]
+ns_id = "1192504"
 title = 'Elections in the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[news_outlets]
-id = 1192505
+[coalition_of_the_south_pacific.news_outlets]
+ns_id = "1192505"
 title = 'List of news outlets in the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[elections_guide]
-id = 1192516
+[coalition_of_the_south_pacific.elections_guide]
+ns_id = "1192516"
 title = 'Beginner guide to Elections in the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[elections_voting_methods]
-id = 1192517
+[coalition_of_the_south_pacific.elections_voting_methods]
+ns_id = "1192517"
 title = 'Election voting methods explained'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[ns_guide]
-id = 1192532
-title = 'Full Guide to NationStates'
-category = 8
-sub_category = 835
+[coalition_of_the_south_pacific.ns_guide]
+ns_id = "1192532"
+title = 'Full guide to NationStates'
+category = "meta"
+subcategory = "gameplay"
 
-[politics_guide]
-id = 1199302
+[coalition_of_the_south_pacific.politics_guide]
+ns_id = "1199302"
 title = 'Beginner guide to politics in the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[assembly_intro]
-id = 1192506
+[coalition_of_the_south_pacific.assembly_intro]
+ns_id = "1192506"
 title = 'The Assembly of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[become_legislator]
-id = 1192507
+[coalition_of_the_south_pacific.become_legislator]
+ns_id = "1192507"
 title = 'Become a Legislator in the South Pacific!'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[assembly_guide]
-id = 1192509
+[coalition_of_the_south_pacific.assembly_guide]
+ns_id = "1192509"
 title = 'Beginner guide to the Assembly of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[assembly_procedures]
-id = 1192510
+[coalition_of_the_south_pacific.assembly_procedures]
+ns_id = "1192510"
 title = 'Legislative Procedures of the Assembly of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[assembly_details]
-id = 1192515
+[coalition_of_the_south_pacific.assembly_details]
+ns_id = "1192515"
 title = 'Details on the powers of the Assembly of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[cabinet_intro]
-id = 1192519
+[coalition_of_the_south_pacific.cabinet_intro]
+ns_id = "1192519"
 title = 'The Executive branch of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[cabinet_elections]
-id = 1192520
+[coalition_of_the_south_pacific.cabinet_elections]
+ns_id = "1192520"
 title = 'Cabinet elections in the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[cabinet_details]
-id = 1192521
+[coalition_of_the_south_pacific.cabinet_details]
+ns_id = "1192521"
 title = 'Details on the working of the Executive branch'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[court_intro]
-id = 1192522
+[coalition_of_the_south_pacific.court_intro]
+ns_id = "1192522"
 title = 'The High Court of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[court_details]
-id = 1192523
+[coalition_of_the_south_pacific.court_details]
+ns_id = "1192523"
 title = 'Details on the powers of the High Court of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[court_procedures]
-id = 1192524
+[coalition_of_the_south_pacific.court_procedures]
+ns_id = "1192524"
 title = 'Procedures of the High Court of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[court_guide]
-id = 1192525
+[coalition_of_the_south_pacific.court_guide]
+ns_id = "1192525"
 title = 'Beginner guide to the High Court of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[indie_intro]
-id = 1205793
+[coalition_of_the_south_pacific.indie_intro]
+ns_id = "1205793"
 title = 'Independent institutions of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[crs_intro]
-id = 1192526
+[coalition_of_the_south_pacific.crs_intro]
+ns_id = "1192526"
 title = 'The Council on Regional Security of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[endo_cap]
-id = 1192558
+[coalition_of_the_south_pacific.endo_cap]
+ns_id = "1192558"
 title = 'The Endorsement Cap in the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[proscriptions]
-id = 1220344
+[coalition_of_the_south_pacific.proscriptions]
+ns_id = "1220344"
 title = 'Regions proscribed by the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[legcomm]
-id = 1192527
+[coalition_of_the_south_pacific.legcomm]
+ns_id = "1192527"
 title = 'The Legislator Committee of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[election_commission]
-id = 1212829
+[coalition_of_the_south_pacific.election_commission]
+ns_id = "1212829"
 title = "The Election Commission of the South Pacific"
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[coa]
-id = 1192528
+[coalition_of_the_south_pacific.coa]
+ns_id = "1192528"
 title = 'The Chair of Assembly of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[delegate_intro]
-id = 1192529
+[coalition_of_the_south_pacific.delegate_intro]
+ns_id = "1192529"
 title = 'The Delegate of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[delegate_details]
-id = 1192530
+[coalition_of_the_south_pacific.delegate_details]
+ns_id = "1192530"
 title = 'Details on the working of the Delegate of the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[delegate_elections]
-id = 1192531
+[coalition_of_the_south_pacific.delegate_elections]
+ns_id = "1192531"
 title = 'Delegate elections in the South Pacific'
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"
 
-[law_index]
-id = 1192536
+[coalition_of_the_south_pacific.law_index]
+ns_id = "1192536"
 title = "The South Pacific's Law Index"
-category = 8
-sub_category = 835
+category = "meta"
+subcategory = "gameplay"

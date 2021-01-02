@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -51,6 +51,7 @@
 [b][anchor=a3][/anchor][p]3. Infractions[/p][/b]
 
 
-[anchor=a3_s1][/anchor][p](1) Infractions may be brought before the High Court in a court case. For the duration of the court proceedings, the Delegate may suspend the mass communication capabilities of the accused.	[/p]
+[anchor=a3_s1][/anchor][p](1) Infractions may be brought before the High Court in a court case. For the duration of the court proceedings, the Delegate may suspend the mass communication capabilities of the accused.
+	[/p]
 
 {% endblock body %}

@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -132,6 +132,7 @@
 [b][anchor=a8][/anchor][p]8. Constitutional Law[/p][/b]
 
 
-[anchor=a8_s1][/anchor][p](1) The Election Act is a constitutional law, and further amendments to it must meet constitutional amendment requirements.	[/p]
+[anchor=a8_s1][/anchor][p](1) The Election Act is a constitutional law, and further amendments to it must meet constitutional amendment requirements.
+	[/p]
 
 {% endblock body %}

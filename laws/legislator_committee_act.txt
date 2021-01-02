@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -76,6 +76,7 @@
 [b][anchor=a4][/anchor][p]4. Constitutional Law[/p][/b]
 
 
-[anchor=a4_s1][/anchor][p](1) The Legislator Committee Act is a constitutional law, and further amendments to it must meet constitutional amendment requirements.	[/p]
+[anchor=a4_s1][/anchor][p](1) The Legislator Committee Act is a constitutional law, and further amendments to it must meet constitutional amendment requirements.
+	[/p]
 
 {% endblock body %}

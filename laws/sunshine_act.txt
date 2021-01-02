@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -48,6 +48,7 @@
 [b][anchor=a3][/anchor][p]3. Audits of Discussions[/p][/b]
 
 
-[anchor=a3_s1][/anchor][p](1) The High Court, as part of a case, may compel an institution to grant the Court insight into related discussions.	[/p]
+[anchor=a3_s1][/anchor][p](1) The High Court, as part of a case, may compel an institution to grant the Court insight into related discussions.
+	[/p]
 
 {% endblock body %}

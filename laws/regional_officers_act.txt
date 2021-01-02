@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -71,6 +71,7 @@
 [anchor=a4_s2][/anchor][p](2) The Communications power must not be used excessively in a way that effectively spams the region.[/p]
 
 
-[anchor=a4_s3][/anchor][p](3) Exercise of Regional Officer powers must follow all applicable laws and rules. Behavior unbecoming of a representative of The South Pacific may result in suspension of Regional Officer power, even for ministers, as determined by a majority of the Cabinet.	[/p]
+[anchor=a4_s3][/anchor][p](3) Exercise of Regional Officer powers must follow all applicable laws and rules. Behavior unbecoming of a representative of The South Pacific may result in suspension of Regional Officer power, even for ministers, as determined by a majority of the Cabinet.
+	[/p]
 
 {% endblock body %}

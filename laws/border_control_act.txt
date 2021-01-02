@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -55,6 +55,7 @@
 [anchor=a4_s1][/anchor][p](1) Border control officers ordered to perform a border control action by an institution they are not a member of are granted immunity for executing that order.[/p]
 
 
-[anchor=a4_s2][/anchor][p](2) Border control officers may unilaterally perform a border control action to prevent probable imminent invasions of the South Pacific in the minutes leading up to the game update of the South Pacific, which they must report to the Council on Regional Security immediately.	[/p]
+[anchor=a4_s2][/anchor][p](2) Border control officers may unilaterally perform a border control action to prevent probable imminent invasions of the South Pacific in the minutes leading up to the game update of the South Pacific, which they must report to the Council on Regional Security immediately.
+	[/p]
 
 {% endblock body %}

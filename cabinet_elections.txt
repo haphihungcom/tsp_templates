@@ -1,4 +1,4 @@
-{% extends "layout/cabinet.txt" %}
+{% extends "layout/cabinet" %}
 
 {% block body %}
 

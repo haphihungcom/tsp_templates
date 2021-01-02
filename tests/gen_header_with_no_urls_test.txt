@@ -1,2 +1,2 @@
-{% import 'macros/header_macros.txt' as macros with context %}
+{% import 'macros/header_macros' as macros with context %}
 {{ macros.gen_header(logo='test') }}

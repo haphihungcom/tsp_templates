@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -78,6 +78,7 @@
 [b][anchor=a5][/anchor][p]5. Constitutional Law[/p][/b]
 
 
-[anchor=a5_s1][/anchor][p](1) The Proscription Act is a constitutional law, and further amendments to it must meet constitutional amendment requirements.	[/p]
+[anchor=a5_s1][/anchor][p](1) The Proscription Act is a constitutional law, and further amendments to it must meet constitutional amendment requirements.
+	[/p]
 
 {% endblock body %}

@@ -1,4 +1,4 @@
-{% extends 'layout/laws.txt' %}
+{% extends 'layout/laws' %}
 
 {% block body %}
 
@@ -64,6 +64,7 @@
 [anchor=a4_s2_e][/anchor][p]e. Dishonorable discharge, in which the affected member is dismissed of duty and not permitted to return without special assent of the Assembly.[/p]
 
 
-[anchor=a4_s3][/anchor][p](3) A member of the military subject to a disciplinary action may appeal that disciplinary action and offer a defense to be reviewed by the General Corps. If an amicable resolution cannot be achieved, the member may demand that the charge be brought to the High Court. In this case, the court shall conduct a trial akin to a criminal trial, in which General Corps shall act as the Complainant, the accused member as the Accused, and the disciplinary actions listed herein shall be used by the court for sentencing.	[/p]
+[anchor=a4_s3][/anchor][p](3) A member of the military subject to a disciplinary action may appeal that disciplinary action and offer a defense to be reviewed by the General Corps. If an amicable resolution cannot be achieved, the member may demand that the charge be brought to the High Court. In this case, the court shall conduct a trial akin to a criminal trial, in which General Corps shall act as the Complainant, the accused member as the Accused, and the disciplinary actions listed herein shall be used by the court for sentencing.
+	[/p]
 
 {% endblock body %}
