@@ -7,33 +7,33 @@
 
 [p]The South Pacific uses a wide variety of ways to count votes in different types of elections due to the differences in the technical platform and representation requirements. These methods are specified in [law]the Elections Act[/law] for forumside government's elections and in [url=lc_elections]the Local Council's election law[/url]. This dispatch will explain all of them in layman terms and give examples to make things easier to understand.[/p]
 
-[h2]First-past-the-post (FPTP)[/h2]
+[h1]First-past-the-post (FPTP)[/h1]
 
 [p][url=lc_intro]Local Council[/url] elections and the gameside stage of [url=delegate_elections]Delegate elections[/url] use this method via the gameside poll system. FPTP is chosen due to the limitations of the gameside poll system.[/p]
 
-[h3]How it works[/h3]
+[h2]How it works[/h2]
 
 [p]The mechanic is simple, you can only vote for one candidate, whoever get the most votes will win.[/p]
 
-[h2]Approval Voting (AV)[/h2]
+[h1]Approval Voting (AV)[/h1]
 
 [p][url=coa]Chair of Assembly[/url] elections and the forumside stage of Delegate elections use this method. Electors list out candidates they vote for on their ballot with this method. AV is chosen due to its suitability for independent apolitical positions that require consensus.[/p]
 
-[h3]How it works[/h3]
+[h2]How it works[/h2]
 
 [p]It is like FPTP, except you can vote for multiple candidates. Like FPTP, whoever get the most votes will win.[/p]
 
 [spoiler=[p]Example[/p]][p]Assume you have 3 candidates: Coconut, Iced Tea, Lampshade. And there are three ballots as follow:[/p]
-[box][h4]Example ballot 1[/h4]
+[box][h3]Example ballot 1[/h3]
 [p]Coconut[/p]
 [/box]
 
-[box][h4]Example ballot 2[/h4]
+[box][h3]Example ballot 2[/h3]
 [p]Coconut[/p]
 [p]Iced Tea[/p]
 [/box]
 
-[box][h4]Example ballot 3[/h4]
+[box][h3]Example ballot 3[/h3]
 [p]Coconut[/p]
 [p]Iced Tea[/p]
 [p]Lampshade[/p]
@@ -49,19 +49,19 @@
 [/spoiler]
 
 
-[h2]Instant-runoff Voting (IRV)[/h2]
+[h1]Instant-runoff Voting (IRV)[/h1]
 
 [p]IRV is a form of voting which you make a ballot by sorting a list of candidates based on how you like them. The [url=cabinet_elections]Cabinet elections[/url] use this method to count votes. IRV is arguably the most difficult to understand method and is designed for political positions such as Cabinet ministers.[/p]
 
-[h3]How it works[/h3]
+[h2]How it works[/h2]
 
 [p]In IRV, a ballot is a list of candidates sorted by the elector's order of preference. The votes are counted using the following procedure:[/p]
 
-[h4]First round[/h4]
+[h3]First round[/h3]
 
 [p]At the beginning, the number of [i]first-preference votes[/i] (Ballots that rank a candidate first) for each candidate are counted. If a candidate receives a majority (more than half) of first-preference votes (More than half of the electors place them at the first rank on their ballot), they will win the election. If no one achieves a majority of first-preference votes, then the complicated [i]instant-runoff[/i]rounds will start.[/p]
 
-[h4]Instant-runoff rounds[/h4]
+[h3]Instant-runoff rounds[/h3]
 
 [p]The candidate with the least first-preference votes will be eliminated and their votes will be transferred to other candidates as follow: If the eliminated candidate is ranked 1[sup]st[/sup] on a ballot then after the elimination happens, the 2[sup]nd[/sup]-ranked candidate on the ballot will become the first, the 3[sup]rd[/sup] will become the 2[sup]nd[/sup], and so on. If the eliminated candidate is ranked 2[sup]nd[/sup] on the ballot then the 3[sup]rd[/sup] candidates will become the 2[sup]nd[/sup] and so on, the 1[sup]st[/sup] candidate will still retain their position. This will push some candidates to the first rank on some ballots and increase their first-preferential votes. If a candidate reaches a majority of first-preferential votes after these transfers then they will win, if not, the process will repeat with the next least-first-preferential-votes candidate eliminated and their votes transferred to others. The process will repeat until someone gets a majority of first-preferential votes and wins. Each repetition is called an [i]instant-runoff round[/i].[/p]
 
@@ -70,31 +70,31 @@
 [spoiler=[p]Example[/p]]
 [p]Assume you have 3 candidates: Coconut, Iced Tea, Lampshade and 5 ballots casted by 5 electors as follow:[/p]
 
-[box][h4]Elector A[/h4]
+[box][h3]Elector A[/h3]
 [p]Coconut[/p]
 [p]Iced Tea[/p]
 [p]Lampshade[/p]
 [/box]
 
-[box][h4]Elector B[/h4]
+[box][h3]Elector B[/h3]
 [p]Coconut[/p]
 [p]Iced Tea[/p]
 [p]Lampshade[/p]
 [/box]
 
-[box][h4]Elector C[/h4]
+[box][h3]Elector C[/h3]
 [p]Iced Tea[/p]
 [p]Coconut[/p]
 [p]Lampshade[/p]
 [/box]
 
-[box][h4]Elector D[/h4]
+[box][h3]Elector D[/h3]
 [p]Coconut[/p]
 [p]Lampshade[/p]
 [p]Iced Tea[/p]
 [/box]
 
-[box][h4]Elector E[/h4]
+[box][h3]Elector E[/h3]
 [p]Coconut[/p]
 [p]Iced Tea[/p]
 [p]Lampshade[/p]
@@ -112,31 +112,31 @@
 
 [p]That is an easy example, here is an example when no one reaches a majority of first-preferential votes.[/p]
 
-[box][h4]Elector A[/h4]
+[box][h3]Elector A[/h3]
 [p]Coconut[/p]
 [p]Iced Tea[/p]
 [p]Lampshade[/p]
 [/box]
 
-[box][h4]Elector B[/h4]
+[box][h3]Elector B[/h3]
 [p]Iced Tea[/p]
 [p]Coconut[/p]
 [p]Lampshade[/p]
 [/box]
 
-[box][h4]Elector C[/h4]
+[box][h3]Elector C[/h3]
 [p]Coconut[/p]
 [p]Iced Tea[/p]
 [p]Lampshade[/p]
 [/box]
 
-[box][h4]Elector D[/h4]
+[box][h3]Elector D[/h3]
 [p]Lampshade[/p]
 [p]Coconut[/p]
 [p]Iced Tea[/p]
 [/box]
 
-[box][h4]Elector E[/h4]
+[box][h3]Elector E[/h3]
 [p]Lampshade[/p]
 [p]Coconut[/p]
 [p]Iced Tea[/p]

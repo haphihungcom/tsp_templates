@@ -10,17 +10,17 @@
 [p]A Proscription is a ban on one individual or an entire region from staying and participating in any area under the jurisdiction of the Coalition of the South Pacific's Government. Such harsh punishments are only carried out to individuals or organizations that have committed very serious offenses to the Coalition as a whole (Coup d'etat, invasion, infiltration,...). Proscriptions are issued/revoked by [url=cabinet_intro]the Cabinet[/url] or [url=crs_intro]the Council on Regional Security[/url] (CRS). Proscriptions can be reviewed by [url=court_intro]the High Court[/url] or by the issuing authority (Cabinet or/and CRS) under request from [url=assembly_intro]the Assembly[/url].[/p]
 
 [box]
-[center][h2]Proscribed individuals or regions[/h2][/center]
+[center][h1]Proscribed individuals or regions[/h1][/center]
 [table][tr][th]Name[/th][th]Type[/th][th]Start date[/th][th]Association[/th][th]More information[/th][/tr]
 {% for name, info in proscriptions.items() %}
 [tr][td]{{ name }}[/td][td]{{ info.type }}[/td][td]{{ info.start_date }}[/td][td]{{ info.association }}[/td][td]{{ info.note }}[/td][/tr]
 {% endfor %}[/table][/box]
 
-[h2]Criteria for Proscriptions[/h2]
+[h1]Criteria for Proscriptions[/h1]
 
 [p]Please read [law]Article 1 of the Proscription Act[/law] for acts of hostility that can cause a Proscription.[/p]
 
-[h2]Types of Proscriptions[/h2]
+[h1]Types of Proscriptions[/h1]
 
 [p]There are two types of Proscriptions:[/p]
 [list][*][em]Regional Proscription:[/em] A ban on an individual or on all members of a region or organization from having a nation in any region in the Coalition's jurisdiction.
@@ -30,7 +30,7 @@
 [box][ref][law]Article 2 of the Proscription Act[/law][/ref]
 [/box]
 
-[h2]Issuing/revoking a Proscription[/h2]
+[h1]Issuing/revoking a Proscription[/h1]
 
 [p]A Proscription on [u]foreign individuals or regions/organizations[/u] can be issued by one of these institutions:[/p]
 [list][*][url=cabinet_intro]Cabinet[/url]
@@ -46,9 +46,9 @@
 [box][ref][law]Article 3 of the Proscription Act[/law][/ref]
 [/box]
 
-[h2]Review a Proscription[/h2]
+[h1]Review a Proscription[/h1]
 
-[h3]Judicial review[/h3]
+[h2]Judicial review[/h2]
 
 [p]There are two types of judicial review:[/p]
 [list][*][em]Individual Proscription review:[/em] Review underlying evidence of intelligence upon which a Proscription on an individual(s) is based.
@@ -62,7 +62,7 @@
 
 [p][em]Note:[/em] Review for Proscriptions of regions/organizations is not possible with the High Court.[/p]
 
-[h3]Issuing authority review[/h3]
+[h2]Issuing authority review[/h2]
 
 [p]The Assembly can require the issuing authority to review a Proscription by passing a resolution with a simple majority vote. Review for Proscriptions on regions/organizations is only possible with this method.[/p]
 

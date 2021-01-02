@@ -10,11 +10,11 @@
 {{ sign.note("This dispatch uses the word 'Regional Officers', which are different from government officials. Regional Officers (RO) are nations appointed by the Delegate with some administrative powers, such as the ability to change the World Factbook Entry (WFE), flag, moderate the Message Board (RMB),... While ROs are usually the same people as government officials, the two concepts are totally different: ROs are the equivalent of forum moderators and are a feature of NationStates, while government officials are in-character positions created by our laws. Our laws don't dictate how ROs work.") }}
 
 [box]
-[h3]Summary[/h3]
+[h2]Summary[/h2]
 
-[h4]Terms:[/h4] [p]Six months in length. Unlimited number[/p]
+[h3]Terms:[/h3] [p]Six months in length. Unlimited number[/p]
 
-[h4]Technical powers:[/h4]
+[h3]Technical powers:[/h3]
 [list]
 [*]Appoint Regional Officers
 [*]Edit World Factbook Entry (WFE), flag, and tags
@@ -25,7 +25,7 @@
 [*]Vote on World Assembly resolutions
 [/list]
 
-[h4]Legal powers:[/h4]
+[h3]Legal powers:[/h3]
 [list]
 [*]Establish gameside mass communication policies and regulate their usage
 [*]Ban spammers and trolls
@@ -34,19 +34,19 @@
 [*]Moderate the RMB according to moderation policies set by the Local Council
 [/list]
 
-[h4]Checks and balances:[/h4] [p]Decisions can be voided by the High Court[/p]
+[h3]Checks and balances:[/h3] [p]Decisions can be voided by the High Court[/p]
 
-[h4]Elections and recalls:[/h4]
+[h3]Elections and recalls:[/h3]
 [list]
 [*]Elected by Legislators of the Assembly and gameside World Assembly nations every six months
 [*]Can be recalled by the Assembly
 [/list]
 
-[h4]Handling of vacancies:[/h4] [p]Succeeded by next nation on the succession order established by the CRS, Prime Minister, and current Delegate[/p]
+[h3]Handling of vacancies:[/h3] [p]Succeeded by next nation on the succession order established by the CRS, Prime Minister, and current Delegate[/p]
 [/box]
 
 
-[h2]Powers[/h2]
+[h1]Powers[/h1]
 
 [p]The Delegate is the most powerful position in-game as he/she holds the in-game Delegate seat along with all administrative powers associated with it. Powers of the Delegate can be divided into two forms:[/p]
 
@@ -57,7 +57,7 @@
 
 [p]The Delegate has all available technical powers granted to them, however, they have very little legal powers, so the position is just a figurehead. Most actions performed by the Delegate via technical powers are decided by other institutions of the government such as the Cabinet rather than by him/herself.[/p]
 
-[h3]Powers[/h3]
+[h2]Powers[/h2]
 
 [list][*][em]World Assembly:[/em] The Delegate can cast a weighted vote equal to the number of endorsements they hold on any resolution in both the General Assembly (GA) and the Security Council (SC).  In addition, the Delegate may vote to approve World Assembly proposals. Proposals that receive enough Delegate approvals and are deemed legal by the World Assembly General Secretariat will be queued up to be voted on as resolutions. This power is not regulated by any existing legislation, but, by tradition, the Delegate seeks the cabinet's advice on any SC resolutions.
 
@@ -85,7 +85,7 @@
 [*][em]Fulfilling Regional Officer Positions:[/em] The Delegate must use their Executive power to ensure that elected officials are given the appropriate powers to enable them to fulfill their roles, as per the Regional Officers Act.  The Delegate must also use those powers directly in any circumstances where a Regional Officer is unable to do so.
 [/list]
 
-[h2]Delegate elections[/h2]
+[h1]Delegate elections[/h1]
 
 [p]The Delegate is elected by the Assembly and in-game nations via a two-step process. The first step involves Legislators of the Assembly voting on candidates via Approval Voting, with the two candidates holding the most votes moving on to a gameside first-past-the-post vote, where whoever gets the most votes will win.[/p]
 
@@ -98,14 +98,14 @@
 [/ref]
 [/box]
 
-[h2]Recalls[/h2]
+[h1]Recalls[/h1]
 
 [p]The Delegate can be recalled by the Assembly through a Recall Resolution for dereliction of duty, abuse of authority, or violations of the law. Any Legislator can initiate a Recall Resolution against the Delegate. The Resolution will be debated for three days. If the Resolution receives a motion and a second, it will be put to vote. In order for the Resolution to pass, there needs to be a 3/5 supermajority of those voting. Immediately after the Recall Resolution is passed, the Delegate will be removed from office.[/p]
 
 [box][ref][law]Section 1, Article XI of the Charter of the South Pacific[/law][/ref]
 [/box]
 
-[h2]Vacancies[/h2]
+[h1]Vacancies[/h1]
 
 [p]If the current Delegate is vacant (because of resignation, recall,...) then the next nation on the succession order (jointly established by the [url=crs_intro]Council on Regional Security[/url], the Prime Minister, and the current Delegate) will become the Delegate.[/p]
 

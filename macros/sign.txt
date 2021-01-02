@@ -1,5 +1,5 @@
 {% macro note(text, title='Note') -%}
-[box][h3]{{ title }}[/h3]
+[box][h2]{{ title }}[/h2]
 
 [p]{{ text }}[/p]
 [/box]

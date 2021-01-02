@@ -4,7 +4,7 @@
 
 [title]Index to every dispatch about the South Pacific[/title]
 
-[h3]For beginners[/h3]
+[h2]For beginners[/h2]
 [list]
 [*][url=welcome]Welcome to the South Pacific[/url]
 [*][url=get_involved]Get involved in the South Pacific[/url]
@@ -13,7 +13,7 @@
 [*][url=rmb_rules]Regional Message Board Rules and Etiquette[/url]
 [/list]
 
-[h3]Southern World Assembly Initiative[/h3]
+[h2]Southern World Assembly Initiative[/h2]
 [list]
 [*][url=swan_intro]Introduction to SWAN[/url]
 [*][url=swan_guide]How to participate in SWAN[/url]
@@ -27,7 +27,7 @@
 [*][url=swan_faq]Frequently Asked Questions about SWAN[/url]
 [/list]
 
-[h3]Government[/h3]
+[h2]Government[/h2]
 [list]
 [*][url=government_intro]Introduction to the Government[/url]
 [*][url=government_jobs]Get jobs in the Government[/url]
@@ -72,13 +72,13 @@
 [/list]
 [/list]
 
-[h3]Security[/h3]
+[h2]Security[/h2]
 [list]
 [*][url=proscriptions]Proscription policy[/url]
 [*][url=endo_cap]Endorsement cap policy[/url]
 [/list]
 
-[h3]Misc[/h3]
+[h2]Misc[/h2]
 [list]
 [*][url=law_index]The Laws Index[/url]
 [/list]

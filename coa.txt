@@ -11,7 +11,7 @@
 
 [p]If you have questions or requests (like resigning from legislatorship or a leave of absence), you can post on the [url=f_assembly_office]Office of Assembly Affairs[/url] forum thread.[/p]
 
-[h2]Powers and roles[/h2]
+[h1]Powers and roles[/h1]
 
 The Chair:
 [list][*]Conducts and record votes. Can also delay vote if necessary.
@@ -28,7 +28,7 @@ The Chair:
 [/ref]
 [/box]
 
-[h2]Elections[/h2]
+[h1]Elections[/h1]
 
 [p]Legislators vote for the Chair in an election that begins eight days before the end of the current Chair's term (which usually lasts for four months). [url=elections_voting_methods]Approval Voting[/url] is used for Chair elections. Chair elections last for a little over one week and consist of these periods:[/p]
 [list][*][em]Nominations and Campaigning (Days 1-5):[/em] During this period, legislators can declare their candidacy or nominate others. Candidates also campaign by posting a campaign thread, answering questions, etc.
@@ -41,14 +41,14 @@ The Chair:
 [box][ref][law]Article 5 of the Elections Act[/law][/ref]
 [/box]
 
-[h2]Recalls[/h2]
+[h1]Recalls[/h1]
 
 [p]Like any other government official, legislators can recall the Chair by passing a resolution, which requires a three-fifths supermajority to pass.[/p]
 
 [box][ref][law]Section 1, Article XI of the Charter of the South Pacific[/law][/ref]
 [/box]
 
-[h2]Vacancies[/h2]
+[h1]Vacancies[/h1]
 
 [p]If the Chair is vacant, the most senior deputy will serve as Acting Chair and a new Chair election will happen. If no deputy is available, [url=cabinet_intro]the Cabinet[/url] will appoint a legislator as Acting Chair.[/p]
 

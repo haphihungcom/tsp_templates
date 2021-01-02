@@ -38,19 +38,19 @@
 [p]If you are an absolute beginner, we recommend you to begin from [url=politics_guide]this handy guide[/url] on our politics.[/p]
 
 
-[h2]Does it have real purposes and powers?[/h2]
+[h1]Does it have real purposes and powers?[/h1]
 
 [p]Yes, members of the government are tasked with jobs such as community engaging, helping new nations, operating [url=spsf_intro]the military[/url], making sure everything is nice and neat,... Some members of the Government have real administrative powers such as moderating the message board, banning/ejecting nations from the region, changing the World Factbook Entry,... while others have the power to vote on and recall those members, decide how they should do their job by making laws,... In a sense, it is like an administrator and community organizer team which operates by mechanisms of real-life governments.[/p]
 
-[h2]The overall structure[/h2]
+[h1]The overall structure[/h1]
 
 [p]The Government of the South Pacific is a democratic parliamentary republic with three-branch checks and balances and a separate head of state (Delegate) and head of government (Prime Minister). The Charter of the South Pacific is the supreme law of the land. The Government is divided into two parts.[/p]
 
-[h3]Gameside government[/h3]
+[h2]Gameside government[/h2]
 
 [p][url=lc_intro]The Local Council (LC)[/url] is the governing body of the gameside. It consists of three members that are elected every 3 months by regional nations that are in the World Assembly. The Local Council mostly deals with engaging and organizing the gameside community which includes RMB (Regional Message Board) chatters, RMB roleplayers,... and acts as a bridge between the gameside and forumside community of the region.[/p]
 
-[h3]Forumside government[/h3]
+[h2]Forumside government[/h2]
 
 [p]This is the supreme governing body of the region, an equivalent to a national/federal government of a real-life country. It resides on the forum of the region and consists of three branches:[/p]
 [list]
@@ -66,7 +66,7 @@
 
 [p]Aside from the above, there are a few bodies known as [url=indie_intro]independent institutions[/url] that don't belong to any government ministry such as the [url=crs_intro]Council on Regional Security[/url] (CRS) which handles matters such as protecting the region from intruders, gathering intelligence,...;[url=legcomm]The Legislator Committee[/url] (LegComm) which handles legislator applications;...[/p]
 
-[h2]Get involved in the Government[/h2]
+[h1]Get involved in the Government[/h1]
 
 [list]
 [*][em]Become a Legislator:[/em] Being a legislator will allow you to make, debate, and vote on laws that govern the region and run for elections of positions in the forumside government. It is very easy to become a legislator, just apply for it [url=become_legislator]here[/url], no experience required!

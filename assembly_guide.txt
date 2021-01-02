@@ -35,29 +35,29 @@
 
 [p]Members of the Assembly are called [i]legislators[/i] and they join the Assembly by [url=become_legislator]voluntarily signing up[/url] for it.[/p]
 
-[h3]Where is the Assembly?[/h3]
+[h2]Where is the Assembly?[/h2]
 
 [p]Business of the Assembly happens in [url=f_assembly_hall]the Assembly Halls[/url] part of our forum. Here, you can find discussion threads, where legislators post drafts of legislation and discuss them. You can also find [url=f_legislator_loa]a thread pinned near the top[/url] where you can post leaves of absence (LoA) or resignations. There are two more subforums within the Assembly Halls: [url=f_voting_chamber]the Voting Chamber[/url], where we vote on legislation, and the [url=f_private_assembly_hall]Private Assembly Hall[/url], where we discuss sensitive matters.[/p]
 
-[h3]What do I do in the Assembly?[/h3]
+[h2]What do I do in the Assembly?[/h2]
 
 [p]95% of the time, the Assembly is all about writing, debating, and voting on legislation, the remaining 5% are elections which we cover [url=elections]here[/url]. In the Assembly, you can participate in discussions on proposed legislation, vote on legislation, and of course, propose new legislation. Keep reading for more details![/p]
 
-[h3]Where can I find the laws and do I have to know them?[/h3]
+[h2]Where can I find the laws and do I have to know them?[/h2]
 
 [p]Laws passed by the Assembly are archived in the [url=law_index]Law Archive[/url]. You don't need to know every law there, you just need to be generally aware of how our government works and what the legislative procedure is. When writing legislation (discussed below), you will have to read related laws to avoid conflicts. However, there isn't too much to read since we don't have a lot of laws, and our laws are usually short and written in non-fancy English.[/p]
 
-[h3]Understanding the matters being discussed in the Assembly[/h3]
+[h2]Understanding the matters being discussed in the Assembly[/h2]
 
 [p]If you are a beginner, you may not understand the issues and problems being discussed. The quickest way to understand them is asking other legislators, who will enthusiastically explain them for you! You can also read the [url=news_outlets]latest news[/url], or if you prefer the raw approach, read some of the laws in [url=law_index]the Law Archive[/url] or [url=index]browse the dispatches[/url].[/p]
 
 [p]This part of the guide already gives you most of the knowledge needed to participate in the Assembly. Below, you'll read about how legislation is made along with how to write, propose, debate, and vote on one.[/p]
 
-[h3]The Chair of Assembly[/h3]
+[h2]The Chair of Assembly[/h2]
 
 [p]Most of the moderation and paperwork matters in the Assembly is handled by the [url=coa]Chair of Assembly[/url], who is elected by legislators. {{ gov_officials.coa|nation }} is our current Chair.[/p]
 
-[h3]The Code of Conduct[/h3]
+[h2]The Code of Conduct[/h2]
 
 [p]To make sure legislators behave orderly in the Assembly, we have a short [url=f_assembly_coc]Code of Conduct[/url] you should read and follow.[/p]
 
@@ -113,15 +113,15 @@
 
 [p]If you are a beginner, you probably don't need to know how to write bills yet. You should jump to the [url=#debate]debating[/url] and [url=#vote]voting[/url] section below and skip this part if you want.[/p]
 
-[h3]Find a problem to work on[/h3]
+[h2]Find a problem to work on[/h2]
 
 [p]Our region has a multitude of problems to be fixed and improvements to be made. You can go through [url=law_index]the Law Archive[/url]to find laws with loopholes, laws which fail at addressing the related problems, you can read [url=news_outlets]the news[/url], or just hear from someone that there is problem that needs to be fixed. Again, ask other legislators if you don't know anything![/p]
 
-[h3]Read the Law Archive first![/h3]
+[h2]Read the Law Archive first![/h2]
 
 [p]Before writing your bill, you should look over [url=law_index]the Law Archive[/url] first to see if there are any laws that conflict with your bill or already does what your bill does. You can use the names of the laws to determine which laws to look at. For example, if you are writing a bill on elections, you should look at the [law]Elections Act[/law] first.[/p]
 
-[h3]Writing your bill[/h3]
+[h2]Writing your bill[/h2]
 
 [p]Once you have picked a problem to work on, you can begin working on how to fix it! For normal bills, just jump into writing it right away. Start a new thread on the [url=f_assembly_hall]Assembly Hall[/url] or the [url=f_private_assembly_hall]Private Hall[/url] (if your bill is about sensitive matters) part of our forum by clicking the [i]Post Thread[/i] button near the top of the forum and start writing. A bill is really just a list of rules the region has to comply, you just need to list the rules you want to have out. For example, if you want to force our beloved former Delegate [nation]Erinor[/nation] to not change his name on our [url=discord]Discord server[/url], draft a bill like this:[/p]
 [quote=SERAPH Act;0][center][p]SERAPH Act[/p][/center]
@@ -209,7 +209,7 @@
 [p](2) Should this Act be enacted, it will be considered repealed after being in force for a full day.[/p]
 [/quote]
 
-[h3]Amendments[/h3]
+[h2]Amendments[/h2]
 
 [p]If your bill is an amendment, which means a set of changes to existing laws, then the formatting rules are the same, except for a few things:[/p]
 [list]
@@ -231,7 +231,7 @@
 
 [p]You can see that everything else except the section, its article, and the title of the Charter is omitted and replaced with ellipses. The new text is colored green and the removed text is struck through and colored red.[/p]
 
-[p]While not required, there are some custom codes that you can use on the forums when formatting your bill. You can use [bill] and [/bill] around your bill, which formats your bill into something that looks very similar to a quote box but removes the "Someone Wrote" part of the quote box. When proposing legislation, especially amendments, it's generally recommended to put your legislation in quotes or in the bill formatting. You can also use [bill-add] and [/bill-add] around the things you are adding in an amendment. This code formats the words in between the codes to be green. [bill-subtract] and [/bill-subtract] can be used around words to produce text that is red and has a strike-through, for when you are indicating that you are removing things in your amendment.
+[p]While not required, there are some custom codes that you can use on the forums when formatting your bill. You can use [bill] and [/bill] around your bill, which formats your bill into something that looks very similar to a quote box but removes the "Someone Wrote" part of the quote box. When proposing legislation, especially amendments, it's generally recommended to put your legislation in quotes or in the bill formatting. You can also use [bill-add] and [/bill-add] around the things you are adding in an amendment. This code formats the words in between the codes to be green. [bill-subtract] and [/bill-subtract] can be used around words to produce text that is red and has a strike-through, for when you are indicating that you are removing things in your amendment.[/p]
 
 [hr]
 
@@ -263,7 +263,7 @@
 
 [p]In this step, you and others discuss the ins and outs of the draft, why and how the bill will work, what are the downsides, alternatives, etc., and make changes to it. Debates happen in the thread the bill is posted, as well as in #legislators-lounge on Discord. Most normal bills are slightly or significantly altered when going through this stage, some may get dropped completely. When debating, the bill's proposers will receive questions, complements, and criticisms, just like in real-life political debates. When you are arguing for your bill, keep in mind that the responses from others aimed at [i]your work[/i], not you, so don't be discouraged when someone criticizes the bill.[/p]
 
-[h3]Don't fear but also don't attack others[/h3]
+[h2]Don't fear but also don't attack others[/h2]
 
 [p]When debating, remember that this is just a game, people will give your bill or opinions their own opinions, sometimes harshly, to make your bill better and more representative of the best interests of the South Pacific's citizens. No one will think you are a dumb noob or is a <insert insulting adjective> player if you post a bad bill or opinion, especially if you are a beginner. Don't feel intimidated by others when they question or criticize you, and of course, don't retaliate back by throwing flame at them. Calm, respectful conversations and discussions are best practices in the Assembly (and everywhere else in this game and in real-life).[/p]
 
@@ -281,7 +281,7 @@
 
 [p]You don't usually need to care about the debate period since the Chair of Assembly will handle it for you. When no one is posting anymore in a debate and the mandatory period still hasn't been reached, people will just wait until it is reached and move to the next step. However, there are times when the wait is not worth it (usually when there's unanimous agreement and the issue is urgent), and this is when the debate period waiving power of the Chair comes into play.[/p]
 
-[h3]Waiving mandatory debate period[/h3]
+[h2]Waiving mandatory debate period[/h2]
 
 [p]There are special occasions when the topic of a debate doesn't justify its mandatory period. The Chair of Assembly can waive the mandatory debate period of a debate if a legislator motions for them to do so (by posting a waiving request such as "I motion to waive the debate period of this bill because..."), another kegislator seconds the motion, and no other legislator objects against in within 24 hours. There needs to be a reason that is deemed sufficient by the Chair for the Chair to waive the mandatory debate period.[/p]
 
@@ -294,7 +294,7 @@
 
 [p]If you think the debate is done and you want to bring your bill to the next step after debating (voting), you need to motion it to vote and your motion needs to be seconded by another legislator. To motion a bill to vote, just post "I motion this bill to vote" in the bill's forum thread, another legislator will second it by posting "I second this", or something to that effect. Any legislator can motion a bill to vote or second it.[/p]
 
-[h3]Do NOT motion in these circumstances:[/h3]
+[h2]Do NOT motion in these circumstances:[/h2]
 [list]
 [*]The minimum debate period has not been met (unless the Chair has waived it).
 [*]There are still a lot of disagreements about your bill.
@@ -303,7 +303,7 @@
 
 [p]The Chair of Assembly can delay the vote if the above circumstances exist.[/p]
 
-[h3]Competing bills[/h3]
+[h2]Competing bills[/h2]
 
 [p]Sometimes, a debate can create competing bills. Someone might post a bill that solves the same issue in a different way. After competing bills have been motioned to vote, they are brought to vote simultaneously.[/p]
 
@@ -329,13 +329,13 @@
 
 [p]All votes in the Assembly happen on our forum, in the [url=f_voting_chamber]Voting Chamber[/url] area. The Chair will create a dedicated thread for the bill that is brought to vote. The thread will be where everyone votes on the bill. You will be notified on Discord and in NationStates via a dispatch with a link to the thread when a vote happens. There are two ways to vote on the bill in the thread:[/p]
 
-[h3]Vote using poll[/h3]
+[h2]Vote using poll[/h2]
 
 [p]Above a voting thread there is a poll which you can choose Aye to vote for, Nay to vote against, or Abstain. Click on the choice you want, then click [i]Vote[/i] to cast your vote. To undo your vote and vote again, click the small [i]Undo[/i] button near the thread's title.[/p]
 
 [img]poll_voting_example[/img]
 
-[h3]Vote using post[/h3]
+[h2]Vote using post[/h2]
 
 [p]If your device doesn't support poll (Tapatalk) then you can vote by posting your vote on the thread. Click [i]New Reply[/i] on the thread, write "Aye", "Nay", or "Abstain" then post it. You can edit your vote if you want until the voting period is over.[/p]
 
@@ -343,7 +343,7 @@
 
 [img]post_voting_example[/img]
 
-[h3]Abstain vote[/h3]
+[h2]Abstain vote[/h2]
 
 [p]If you can't choose whether to vote for or against a bill, you [u]need[/u] to choose the Abstain vote option. You can only keep your legislatorship in the next month if you have voted on at least half of the bills in the past month uUnless you just joined in this month of course). Voting abstain is the signal that you do read the bills and are active. Not voting at all means you are inactive and is not recommended if you want to keep your legislatorship.[/p]
 
@@ -367,11 +367,11 @@
 [*][em]Constitutional bills[/em] (constitutional laws, resolutions), [em]recall resolutions[/em] (used to recall government officials), and [em]Motions of No Confidence[/em] (used to recall the entire Cabinet) require a three-fifths supermajority of Aye votes to pass (more than three-fifths or 60% of legislators voting Aye, not counting the Abstain voters)
 [/list]
 
-[h3]Competing bills[/h3]
+[h2]Competing bills[/h2]
 
 [p]If a debate gives us multiple competing bills, all of them will be brought to vote simultaneously, but only one of them can pass. A bill needs to satisfy the above vote number requirement [u]and have more votes than the other competing bills for it to pass[/u]. If all bills don't satisfy the vote number requirement then none of them pass.[/p]
 
-[h3]Gameside referendum[/h3]
+[h2]Gameside referendum[/h2]
 
 [p]For some exceptionally important bills which affect the gameside community, the Chair may decide that a gameside referendum should occur. The [url=lc_intro]Local Council[/url] is in charge in organizing the referendum.[/p]
 

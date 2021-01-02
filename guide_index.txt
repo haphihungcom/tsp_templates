@@ -6,7 +6,7 @@
 
 [p]Here is a list of guides and references about NationStates and the South Pacific which you may need. Click on the orange links to read them.[/p]
 
-[h2]Guides[/h2]
+[h1]Guides[/h1]
 [list]
 [*][url=ns_faq][b]NationStates FAQ[/b][/url]: The basics of NationStates.
 [*][url=ns_guide][b]Full NationStates Guide:[/b][/url] A guide to everything about NationStates, even things you don't need to know.
@@ -20,7 +20,7 @@
 [*][url=ns_issue_types][b]Issue Types Guide:[/b][/url] An introduction to different issue types you may encounter.
 [/list]
 
-[h2]References[/h2]
+[h1]References[/h1]
 [list]
 [*][url=glossary][b]Glossary[/b][/url]: Explanations for all weird NationStates terms you may encounter.
 [*][url=index][b]Dispatch Index[/b][/url]: An index with all dispatches about our region.

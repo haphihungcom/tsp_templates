@@ -6,7 +6,7 @@
 
 [p]The South Pacific is a very big and diverse community, there are a lot of stuff you can do here, ranging from just fun banter to serious politics. Below are ways that you can become involved in the community and have fun in the process![/p]
 
-[h2]Interact with people[/h2]
+[h1]Interact with people[/h1]
 
 [p]You can get involved in our region just by chatting with our friendly members on:[/p]
 
@@ -16,7 +16,7 @@
 [*][url=forum][b]Forum[/b][/url]: We have a forum where more formal conversations happen. Most formal business of the Government and serious roleplays with plot happen in there. Although it is a place for slow and well thought-out talks, we still have [url=f_spam]spam games[/url] to keep you entertained!
 [/list]
 
-[h2]Participate in our endorsement program[/h2]
+[h1]Participate in our endorsement program[/h1]
 
 [p]The [url=swan_intro]Southern World Assembly Initiative[/url] is a program which enables your nation to gather more endorsements and influence which in turn give our region as a whole more voting power on the [url=wa]World Assembly[/url] and make it more secure. It is very easy to participate in it, just:[/p]
 
@@ -28,7 +28,7 @@
 
 [p]Read [url=swan_guide]this guide[/url] if you don't know how to do the above steps.[/p]
 
-[h2]Roleplay[/h2]
+[h1]Roleplay[/h1]
 
 [p]There are many ways which you can roleplay in our region:[/p]
 
@@ -42,13 +42,13 @@
 
 [p]Always remember to read the rules and guides of any roleplay community you participate in to avoid getting lost.[/p]
 
-[h2]Get involved in politics[/h2]
+[h1]Get involved in politics[/h1]
 
 [p]If you like politics and governing, you should participate in our Government and politics. The easiest way to get involved in this area is to become a Legislator. Legislators are members of the Assembly, our legislature. They create, debate, and vote on laws which govern the region. You can become a Legislator just by signing up [url=become_legislator]here[/url].[/p]
 
 [p]Alternatively, you can also get involved in the Government by having a job(s) in there.[/p]
 
-[h2]Get a job in the Government[/h2]
+[h1]Get a job in the Government[/h1]
 
 [p]The second best way to participate in the Government is to hold a job in there. The Government has a lot of things to do. Therefore, there are lots of job opportunities for you! We have jobs such as writers, roleplayers, graphic designers, military soldiers and officers,... Most jobs come from the Executive branch as ministers require a lot of personnel to help them carry out their work.[/p]
 
@@ -56,11 +56,11 @@
 
 [p]If you ever want to run for an office in the future, having a job in the Government is the [i]best[/i] way to gain experience for the office you want to hold. You will be able to collect valuable experience and establish relationships with other people which will help you get the votes.[/p]
 
-[h2]Establish a news outlet[/h2]
+[h1]Establish a news outlet[/h1]
 
 [p]You can inform people by creating a news outlet. Your outlet can cover anything, from regional politics, roleplay news to the latest topic on the RMB in any format. You can start by writing on a dispatch then post a link to it on the RMB for people to see. If your newspaper publishes regularly enough, contact {{ misc.news_outlet_adder|nation }} to get it featured on [url=news_outlets]our regional news outlet list[/url]. Alternatively you may want to use [url=f_news]our forum[/url] as a platform instead.[/p]
 
-[h2]More ways[/h2]
+[h1]More ways[/h1]
 
 [p]There are many more ways to get involved. You can establish civil organizations, talk about World Assembly resolutions on [url=f_wa]our WA forum[/url],... It is up to you to choose what ways to have the most fun in our community![/p]
 

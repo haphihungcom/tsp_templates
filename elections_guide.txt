@@ -11,7 +11,7 @@
 
 [p]A lot of leadership positions in the South Pacific are elected so our region has many different types of elections, however nearly all of them have the same procedure. This guide will walk you over on what elections there are along with how to vote and run in one.[/p]
 
-[h2]What elections are there?[/h2]
+[h1]What elections are there?[/h1]
 
 [p]We have elections for the following positions:[/p]
 
@@ -23,7 +23,7 @@
 
 [p]If you are new, and you don't know what the different positions are and how our politics works, you should read [url=politics_guide]this guide[/url] first then return to this later.[/p]
 
-[h2]Stages of an election[/h2]
+[h1]Stages of an election[/h1]
 
 [p]Every election in the South Pacific consists of three periods:[/p]
 [list][p][em]Nomination:[/em] When you declare your candidacy or nominate others[/p]
@@ -33,11 +33,11 @@
 
 [p]Each period has different length for different types of elections but the total duration is always less than 2 weeks. At the start of an election, there will be a thread or dispatch which shows you the date and duration of each period.[/p]
 
-[h2]Voting method[/h2]
+[h1]Voting method[/h1]
 
 [p]Instant-runoff Voting (IRV), Approval Voting (AV), and First-past-the-post (FPTP) are the methods that our elections use. The below will show you which elections use which method and how to vote with each method. [i]Counting[/i] the votes is tricky, especially with IRV, so we have [url=elections_voting_methods]another guide[/url] just for this. You don't need to know how to count votes though, since government institutions and media outlets already do that for you.[/p]
 
-[h2]Where elections happen and how to vote[/h2]
+[h1]Where elections happen and how to vote[/h1]
 
 [p]Elections always happen in two places. One of the places is [url=forum]the forum[/url], and the other is on our regional page itself. Usually, elections happen on where their positions reside in.[/p]
 
@@ -52,11 +52,11 @@
 
 [p]Elections of all positions which reside on the forum happen on the forum (Cabinet, Chair of Assembly). Since the Delegate is both a forumside and gameside position, the first part of a Delegate election happens on the forum while the second one happens on the regional page.[/p]
 
-[h2]Eligibility[/h2]
+[h1]Eligibility[/h1]
 
 [p]You need to be a [url=become_legislator]Legislator[/url] in order to vote in any forumside election and you need to become one [u]before[/u] the election you are voting in.[/p]
 
-[h2]How to vote and nominate a candidate[/h2]
+[h1]How to vote and nominate a candidate[/h1]
 
 [p]All forumside elections have the same way of voting and nominating for candidates:[/p]
 

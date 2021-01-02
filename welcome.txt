@@ -6,7 +6,7 @@
 
 [p]If you are new to NationStates or are an experienced player but want to learn more about [region]the South Pacific[/region] (TSP) or want to migrate to it, this is the place for you![/p]
 
-[h2]How to play NationStates[/h2]
+[h1]How to play NationStates[/h1]
 
 [p]NationStates is a multiplayer political simulation game that you can play in many ways (We will talk more about them). The most common way to play is to "answer issues". This is the only way you can develop and mold your nation to your liking. Every day, your nation will face certain issues about the economy, society, politics, diplomacy, wars,... Your job as a leader is to decide how to solve these issues.[/p]
 [Spoiler=[p]Click to know more...[/p]][p]Click the [i]Issues[/i] button on the top to view what issues your nation is facing. To tackle an issue, click on one. You will see a few solutions to fix the issue present to you. Make up your mind about what solution will fix things the best then click [i]Answer[/i] on the solution you want. After choosing a solution, it will automatically be implemented and a page with changes in the statistics of your nation (such as GDP, civil rights rating, average income,...) the solution created will show up along with a few funny news headlines your decision caused. It is up to you to make decisions that turn your nation into an utopia where everyone is happy or the most 1984-ish world ever. There is no way to win or lose the game. Competitions only happen on the [url=ns_nation_census]World Census's rankings[/url] which rank all nations based on some statistics.[/p]
@@ -17,13 +17,13 @@
 
 [p]Although issue answering is the main way to play the game, most people who stick around find joys in [url=roleplay_intro]roleplaying[/url], [url=government_intro]regional politics[/url], writing and debating [url=ns_wa]World Assembly[/url] (Our equivalent of the United Nations) resolutions, [url=spsf_intro]military gameplay[/url] (invading and defending regions),... or just interacting with fellow nations. If you think issue answering is boring, you should try out some of the above areas.[/p]
 
-[h2]What is a region and what is the South Pacific[/h2]
+[h1]What is a region and what is the South Pacific[/h1]
 
 [p]A region is basically a community of nations. You are free to move your nation to any region you like by finding one (Click on [i]The World[/i] on the left to find one), opening its page, then clicking [i]Move [your nation name] to [region][/i] (Example: [i]Move Bigtopia to the North Pacific[/i]). The region you are in right now is [region]the South Pacific[/region] (check the [i]Region[/i] area on your nation page). The South Pacific is one of the five feeder regions which new nations automatically spawn into so you probably came here by chance![/p]
 
 [p][b]The South Pacific[/b], full name is the [b]Coalition of the South Pacific[/b], is one of NationStates's largest and most active regions. We are the home of over {{ test.region_nation_num }} nations. Aside from being big, we are also one of NationStates's oldest and most influential democracies. The community of thousands of nations is governed by a [url=government_intro]democratic republican government[/url] (not roleplay, a real government which has real power) in which any citizen can take parts. We offer a variety of activities ranging from just bantering on the [url=rmb]Regional Message Board[/url] (RMB) to [url=roleplay_intro]roleplaying[/url], [url=ra_intro]writing newspapers, organizing events[/url], [url=swan_intro]collecting endorsements[/url], [url=spsf_intro]invading and defending[/url] other regions from being invaded, [url=assembly_intro]making laws[/url] which govern the entire region,...[/p]
 
-[h2]Get started in the South Pacific[/h2]
+[h1]Get started in the South Pacific[/h1]
 
 [list]
 [*][url=rmb][b]Chat on the Regional Message Board (RMB):[/b][/url] Chat with other nations on our Message Board! Make sure you read the [url=rmb_rules]Rules and Etiquette[/url] first though to make sure moderators don't annoy you.
@@ -33,7 +33,7 @@
 [*][url=factbook][b]Find out more about the South Pacific:[/b][/url] The South Pacific is a big region with many different aspects. Please read [url=factbook]this factbook[/url] which sums up everything about it.
 [/list]
 
-[h2]Get involved[/h2]
+[h1]Get involved[/h1]
 
 [list]
 [*][url=become_legislator][b]Become a Legislator:[/b][/url] If you like hard politics and like to write laws or do work that makes the region better then you should join the forum-side government (Our equivalent of the federal/national government). Becoming a Legislator is the easiest and fastest way to get involved in politics as you can write, debate, vote on laws that govern our region, and vote for government officials, run in elections,...
@@ -43,7 +43,7 @@
 [*][em]Establish organizations, newspapers, make discussions,...:[/em] There is nearly no limit on what you can do in our region. You can create communities, newspapers, discussion groups, political parties,... in our region on gameside or on the forum to build more activity for the region and gain more experience for yourself.
 [/list]
 
-[h2]Know what is happening[/h2]
+[h1]Know what is happening[/h1]
 
 [p]You can know what is happening on gameside and forumside of our region by reading one of the following:[/p]
 
@@ -55,7 +55,7 @@
 [*][em]Ask others:[/em] You can ask other players via the RMB, telegrams, or Discord to know more about various matters. It is recommended to ask senior members of the region and government officials if you want the best and most accurate answer.
 [/list]
 
-[h2]Learn more[/h2]
+[h1]Learn more[/h1]
 
 [p]You can learn more about everything in our region by reading various dispatches and guides, below are a good few to get started:[/p]
 
