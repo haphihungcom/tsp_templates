@@ -8,12 +8,5 @@
                            'Guides': 'guide_index',
                            'Factbook': 'factbook',
                            'Government': 'government_intro',
-                           'Index': 'index'},
-                     sub_urls={'Become Legislator': 'become_legislator',
-                               'Jobs': 'government_jobs',
-                               'SWAN': 'swan_intro',
-                               'Roleplay': 'roleplay_intro',
-                               'Regional Affairs': 'ra_intro',
-                               'Military': 'spsf_intro',
-                               'Elections': 'elections'}) }}
+                           'Index': 'index'}) }}
 {% endblock header %}

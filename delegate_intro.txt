@@ -1,4 +1,4 @@
-{% extends '"layout/delegate"' %}
+{% extends 'layout/delegate' %}
 
 {% block body %}
 

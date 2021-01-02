@@ -5,9 +5,5 @@
 {% block header %}
 {{ macros.gen_header(urls={'Introduction': 'elections',
                            'Guide': 'elections_guide',
-                           'Voting methods': 'elections_voting_methods'},
-                    sub_urls={'Cabinet': 'cabinet_elections',
-                              'Delegate': 'delegate_elections',
-                              'Chair of Assembly': 'coa',
-                              'Local Council': 'lc_elections'} )}}
+                           'Voting methods': 'elections_voting_methods'}) }}
 {% endblock  %}
