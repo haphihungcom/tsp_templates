@@ -1,4 +1,4 @@
-{% extends "layout/welcome" %}
+{% extends 'layout/welcome' %}
 
 {% block body %}
 

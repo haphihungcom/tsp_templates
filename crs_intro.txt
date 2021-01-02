@@ -1,4 +1,4 @@
-{% extends "layout/security" %}
+{% extends 'layout/security' %}
 
 {% block body %}
 

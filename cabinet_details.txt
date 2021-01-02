@@ -1,4 +1,4 @@
-{% extends "layout/cabinet" %}
+{% extends 'layout/cabinet' %}
 
 {% block body %}
 

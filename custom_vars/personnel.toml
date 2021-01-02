@@ -1,15 +1,15 @@
 [gov_officials]
 delegate = 'Amerion'
-local_council = ['Aidenfieeld', 'Hanguk-Nippon', 'Auphelia']
+local_council = ['Drystar', 'Volaworand', 'Beepee']
 crs = ['Sandaoguo', 'Farengeto', 'Kringalia', 'Erinor', 'Tsunamy', 'Aumeltopia', 'Amerion', 'Qvait', 'PenguinPies']
-legcomm = ['Roavin', 'Phoenix', 'FiHami']
+legcomm = ['Roavin', 'PenguinPies', 'FiHami']
 general_corps = ['Roavin', 'Nakarisaune']
 mora_advisory_council = ['MoRA is dead']
 cabinet_advisors = ['Sandaoguo', 'Roavin']
 coa = 'Purple Hyacinth'
 pm = 'PenguinPies'
 mora = 'MoRA is dead'
-mofa = 'Omega'
+mofa = 'United Federated States of Omega'
 moma = 'FiHami'
 hc_chief_justice = 'Kringalia'
 hc_justices = ['Kringalia', 'Belschaft', 'Griffindor']

@@ -1,34 +1,35 @@
-{% extends "layout/indie" %}
+{% extends 'layout/indie' %}
 
 {% block body %}
 
 [title]Legislator Committee[/title]
 [subtitle]of the Coalition of the South Pacific[/subtitle]
 
-[p]The Legislator Committee or LegComm is a body of three legislators who oversee the admissions of new legislators into the Assembly. The duty of the Legislator Committee is to vet legislator applicants, perform monthly legislator checks, and assist the Chair of Assembly in handling disruptive legislators. The Legislator Committee is one of the Coalition's three independent institutions which ensure the stability and security of the region.[/p]
+[p]The [b]Legislator Committee[/b] or [b]LegComm[/b] is an independent body appointed by [url=cabinet_elections]the Cabinet[/url] that oversees the admission of new legislators in [url=assembly_intro]the Assembly[/url] of the South Pacific. Typically comprised of three members, the Cabinet may appoint up to five members at one time.[/p]
 
 [h2]Members[/h2]
 
-[p]Currently, the Legislator Committee has {{ gov_officials.legcomm|count }} members and they are: {{ gov_officials.legcomm|gen_list }}[/p]
+[p]The current members of the Legislator Committee are: {{ gov_officials.legcomm|gen_list }}[/p]
 
-[h2]Powers and roles[/h2]
+[h2]Powers and responsibilities[/h2]
 
+[p]The Legislator Committee Act lays out the powers and responsibilities of the Legislator Committee:[/p]
 [list]
-[*]Check legislator applicants if they have met the requirements for legislatorship then accept or reject the applicants accordingly
-[*]Perform monthly legislator checks to remove legislators who no longer meet the eligibility requirements
-[*]Suspend disruptive legislators under orders from the Chair of Assembly
+[*]Verify the eligibility of legislator applicants, then accept or deny their applications accordingly
+[*]Perform monthly checks to remove legislators who no longer meet the eligibility requirements
+[*]Suspend the privileges of disruptive legislators on the order of the [url=coa]Chair of the Assembly[/url]
 [/list]
 
 [h2]How Legislator Committee members are chosen[/h2]
 
-[p]Legislator Committee members are appointed by the Cabinet. The appointments need to be approved by the Assembly with a simple majority vote. The Assembly can recall any Legislator Committee member with a three-fifths majority vote like any other government official. The Cabinet itself cannot dismiss Legislator Committee members once they have been appointed.[/p]
+[p]The Cabinet appoints Legislator Committee members to serve in permanence but requires approval from the Assembly in a simple majority vote. Once approved by the Assembly, the Cabinet cannot dismiss a Legislator Committee member. Instead, the Assembly may revoke one's membership by recalling them in a three-fifths majority vote.[/p]
 
-[p]Like any other government official, a Legislator Committee member(s) can be recalled by [url=assembly_intro]the Assembly[/url] with a Recall Resolution which requires a 3/5 supermajority to pass.[/p]
+[h2]Reviewing legislator applications[/h2]
 
-[h2]How Legislator applications are vetted[/h2]
+[p]Legislator applications undergo a thorough process by the Legislator Committee, ensuring that applicants in question are whom they say they are, are not applying in bad faith, or represent a security risk to the South Pacific. If necessary, the [url=crs_intro]Council on Regional Security[/url] (CRS) will inform the Legislator Committee if an applicant does pose such a risk.[/p]
 
-[p]Legislator applicants are vetted by the Legislator Committee before they are accepted to prevent bad players or spies from the enemies from coming into our region. The Legislator Committee uses both NationStates-provided data and real-life data to check an applicant. Normally, the Legislator Committee will check the applicant's nation happenings and real-life locations based on IP addresses to make sure they are not a banned player who is circumventing the banhammer or trying to commit identity fraud. In some cases, social media accounts linked to the applicant's email will also be looked at to further confirm their identity. Sometimes, interviews with the applicant may be conducted to get more information. After all information has been gathered, Legislator Committee members will decide if the applicant should be accepted or not.[/p]
+[p]Typically, the Legislator Committee will review an applicant's national happenings and their Internet Protocol (IP) address to verify whether they are a person trying to circumvent a ban or commit identity fraud. In some cases, social media accounts connected to the applicant's email address will serve as additional confirmation of one's identity. If the Legislator Committee needs further confirmatory information, they will interview an applicant.[/p]
 
-[p]Because members of the Legislator Committee can see your real-life sensitive information, membership in this institution requires a high degree of trust and competence to ensure unfortunate doxxing incidents don't occur.[/p]
+[p]Once the Legislator Committee collects all necessary information to make a decision, they will inform the applicants whether they accepted or denied their applications. Because this process involves sensitive information, the Cabinet and Assembly typically set a high bar of trustworthiness and confidence in those whom the former appoints to serve as Legislator Committee members to minimize the possibility of doxxing.[/p]
 
 {% endblock body %}
